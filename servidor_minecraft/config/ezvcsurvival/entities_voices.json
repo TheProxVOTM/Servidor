@@ -1,0 +1,1627 @@
+{
+  "enabled": true,
+  "monsters": {
+    "cataclysm:maledictus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:giant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:coral_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:theskeeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:amethyst_crab": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:lechery": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:soldiers_02": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:warden": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thepregnant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "immersiveengineering:commando": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:weakspot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:husk": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mutantszombies:split_head_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:axestrom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:cave_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mca:female_zombie_villager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ender_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:deepling_warlock": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:enderman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:hunter": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:ghast": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ignited_berserker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:slaveman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:the_leviathan": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:piglin_brute": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:creeper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:invisiclogger": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:invisiimmortal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "sona:sound_decoy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:illusioner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thebeartamer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:deepling_brute": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:military_medic": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:stray": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mutantszombies:crawler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:drowned": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:neocrorines": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:sucker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "raidsenhanced:raid_drill": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thedungeon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:scylla": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:horde_2": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:horde_3": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:horde_4": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:wither": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:horde_5": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thespectre": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:horde_1": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "cataclysm:the_watcher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:wither_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:propball_1": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mutantszombies:mutant_brute": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:elder_guardian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:netherite_monstrosity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:therod": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:wadjet": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:cindaria": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:theordure": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:theheavy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:vindicator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mutantszombies:blister_zombie": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:soldiers": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:evoker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:slime": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "modern_structures:human_2": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thelurker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:endermaptera": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "immersiveengineering:bulwark": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:clogger": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:lionfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:koboleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:coralssus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:silverfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:endermite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:zombie": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "immersiveengineering:fusilier": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:coppertar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thespitter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:looter_3": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:looter_4": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_29": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:looter_5": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_28": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "sanitydim:rotting_stalker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_27": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "cataclysm:elite_draugr": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_26": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_25": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "cataclysm:hippocamtus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:hoglin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_24": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:looter_2": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_23": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_22": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_21": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_20": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "cataclysm:the_harbinger": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:deepling_angler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:invisilehcery": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:draugr": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thesomnolence": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_3": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_2": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_5": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_4": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:phantom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:zombified_piglin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mca:grim_reaper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:witch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_1": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_7": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_6": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:ender_dragon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_9": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_8": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_33": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_32": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_31": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_30": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "mca:male_zombie_villager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:vex": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:skeleton": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -15.0
+    },
+    "undead_revamp2:theswarmer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:theimmortal": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:ravager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:clawdian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:drowned_host": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "sleep_tight:bedbug": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "sanitydim:sneaking_terror": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ignis": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_19": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_18": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_17": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:bomber": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_16": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_15": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:smokesmitter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_14": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:shulker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_13": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_12": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_11": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thewolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:walker_10": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ender_golem": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:theposessive": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thebidyupside": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mutantszombies:zombie_brute": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thebidy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:zoglin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "raidsenhanced:raid_blimp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "mutantszombies:rotten_mutant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:invisiblebidy": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:the_moonflower": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thehorrorsdecoys": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "butchery:turtleshellboat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "decoration_delight:stool_entity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:kobolediator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:deepling_priest": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_39": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_38": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:piglin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_37": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "mutantszombies:spitter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thesmoker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_36": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ignited_revenant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_35": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_34": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:blaze": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:crawler_3": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:crawler_2": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thehorrors": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:flame": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:crawler_4": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thegliter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:crawler_1": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:military_02": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:military_01": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "raidsenhanced:zapper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "health_and_disease:chair": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_49": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_48": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:magma_cube": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:bigsucker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:royal_draugr": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "minecraft:spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:deepling": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_43": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_42": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_41": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_40": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_47": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_46": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_45": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:cannibal": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_44": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "cataclysm:ancient_remnant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_50": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "cataclysm:the_prowler": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:aptrgangr": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "raidsenhanced:golem_of_last_resort": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "cataclysm:urchinkin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:crackleball": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_54": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_53": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:thehunter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_52": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "minecraft:zombie_villager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_51": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:deadclogger": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_57": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_56": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    },
+    "cataclysm:symbiocto": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:runner_55": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 40.0,
+      "threshold": -20.0
+    }
+  },
+  "animals": {
+    "minecraft:glow_squid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:looter_1": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:strider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:trader_llama": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:parrot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:horse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:polar_bear": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:bat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:wandering_trader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "cataclysm:netherite_ministrosity": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:llama": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:pig": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 15.0,
+      "threshold": -18.0
+    },
+    "minecraft:frog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:turtle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:sheep": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:tadpole": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:goat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:dolphin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:rat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:survivor_10": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:donkey": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:squid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:mule": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:skeleton_horse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:sniffer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:cockroach": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:cow": {
+      "enabled": true,
+      "speed": 1.0,
+      "range": 25.0,
+      "threshold": -18.0
+    },
+    "minecraft:zombie_horse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:camel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "modern_structures:human": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:survivor_5": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:survivor_4": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:cat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:survivor_3": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "cataclysm:the_baby_leviathan": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:survivor_2": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:survivor_1": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:fox": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:allay": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:survivor_9": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:survivor_8": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:survivor_7": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "apocalypsenow:survivor_6": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:mooshroom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "undead_revamp2:therabidus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:ocelot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "cataclysm:modern_remnant": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:chicken": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:panda": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:rabbit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "minecraft:axolotl": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    }
+  }
+}
