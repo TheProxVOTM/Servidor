@@ -1,0 +1,27 @@
+{
+  "materials": [
+    {
+      "item": {
+        "item": "lostweapons:duct_tape"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "lostweapons:plastic_bottle"
+      },
+      "count": 1
+    },
+    {
+      "item": {
+        "item": "lostweapons:rag"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "type": "attachment",
+    "id": "lostweapons:muzzle_improvised_suppressor"
+  },
+  "type": "tacz:gun_smith_table_crafting"
+}

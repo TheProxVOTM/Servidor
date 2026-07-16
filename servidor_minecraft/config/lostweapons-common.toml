@@ -1,0 +1,25 @@
+
+#Lost Weapons configuration.
+#Loot table overrides for Lost Cities and Spore are always active when this mod is loaded.
+#To disable them, remove the mod.
+["Farming Module"]
+	#Enable the Farming Module.
+	#Disables bone meal, removes seeds from grass, reduces crop seed drops,
+	#attracts infected to crop growth, and adds seasonal horde windows.
+	#Requires restart to take effect.
+	enableFarmingModule = true
+
+["Survivors Module"]
+	#Enable the Survivors Module.
+	#Adds NPC survivors that spawn in groups with varied aggression.
+	#70% melee / 30% gun-wielding. Targeted by Spore infected.
+	#Requires restart to take effect.
+	enableSurvivorsModule = true
+
+["World Module"]
+	#Vanilla structures (villages, pillager outposts, temples, etc.) are removed
+	#by data pack overrides that are always active when this mod is loaded.
+	#This setting is informational — to re-enable vanilla structures,
+	#remove the mod's structure override files from the JAR.
+	removeVanillaStructures = true
+

@@ -1,0 +1,9 @@
+{
+  "slot": "lostweapons:attachment/slot/muzzle_improvised_suppressor",
+  "model": "lostweapons:attachment/muzzle_improvised_suppressor_geo",
+  "texture": "lostweapons:attachment/uv/muzzle_improvised_suppressor",
+  "sounds": {
+    "install": "tacz:attachments/muzzle_general",
+    "uninstall": "tacz:attachments/muzzle_general"
+  }
+}

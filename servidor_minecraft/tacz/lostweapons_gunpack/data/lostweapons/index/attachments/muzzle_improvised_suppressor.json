@@ -1,0 +1,7 @@
+{
+  "name": "lostweapons.attachment.muzzle_improvised_suppressor.name",
+  "display": "lostweapons:muzzle_improvised_suppressor_display",
+  "data": "lostweapons:muzzle_improvised_suppressor_data",
+  "tooltip": "lostweapons.attachment.muzzle_improvised_suppressor.desc",
+  "type": "muzzle"
+}
